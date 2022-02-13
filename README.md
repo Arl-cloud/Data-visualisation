@@ -1,4 +1,4 @@
-# Data-visualisation
+# Data-visualisation-with-vega
 
 Data visualisation group project as part of a university course. 
 
